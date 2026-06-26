@@ -28,11 +28,6 @@ This project uses pre-trained Convolutional Neural Networks (ResNet, AlexNet, an
 
 ![Output](output_example.png)
 
-## ▶️ How to Run
-
-```bash
-python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt
-
 ## 🧩 Skills Demonstrated
 
 - Python scripting
@@ -41,5 +36,7 @@ python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt
 - Image classification with PyTorch
 - Debugging and code validation
 
+## ▶️ How to Run
 
-
+```bash
+python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt
