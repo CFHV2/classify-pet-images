@@ -29,3 +29,10 @@ This project uses pre-trained Convolutional Neural Networks (ResNet, AlexNet, an
 ```bash
 python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt
 
+## 🧩 Skills Demonstrated
+
+- Python scripting
+- Data structures (dictionaries, lists)
+- Command-line interface
+- Image classification with PyTorch
+- Debugging and code validation
