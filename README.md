@@ -24,6 +24,10 @@ This project uses pre-trained Convolutional Neural Networks (ResNet, AlexNet, an
 - `calculates_results_stats.py` → statistics calculation
 - `print_results.py` → results output
 
+## 📸 Example Output
+
+![Output](output_example.png)
+
 ## ▶️ How to Run
 
 ```bash
@@ -38,7 +42,4 @@ python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt
 - Debugging and code validation
 
 
-## 📸 Example Output
-
-![Output](output_example.png)
 
