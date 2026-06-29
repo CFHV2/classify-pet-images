@@ -2,6 +2,10 @@
 
 This project uses pre-trained Convolutional Neural Networks (ResNet, AlexNet, and VGG) to classify pet images and identify dog breeds.
 
+## 🎯 Objective
+
+Classify pet images using pre-trained CNNs and evaluate model performance across multiple architectures.
+
 ## 🚀 Features
 
 - Image classification using PyTorch models
